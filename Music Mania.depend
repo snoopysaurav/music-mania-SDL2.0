@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1691340772 source:c:\users\heofon\documents\music mania\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"piano.h"
+	"drum.h"
+	"xylophone.h"
+
+1691319699 c:\users\heofon\documents\music mania\piano.h
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1691318716 source:c:\users\heofon\documents\music mania\piano.cpp
+	"piano.h"
+
+1691331884 source:c:\users\heofon\documents\music mania\drum.cpp
+	"drum.h"
+
+1691337082 source:c:\users\heofon\documents\music mania\xylophone.cpp
+	"xylophone.h"
+
+1691331785 c:\users\heofon\documents\music mania\drum.h
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1691337080 c:\users\heofon\documents\music mania\xylophone.h
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+
